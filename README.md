@@ -1,4 +1,4 @@
-# Gra O Czołgach
+# Gra O Czołgach multiplayer
 
 
 jeszcze nie skończone !!!
