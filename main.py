@@ -13,7 +13,7 @@ pygame.init()
 screen = pygame.display.set_mode((1920, 1010))
 
 pygame.display.set_caption("Gra O Czolgach")
-icon = pygame.image.load("icon.png")
+icon = pygame.image.load("res/icon.png")
 pygame.display.set_icon(icon)
 
 timePerFrame = 1000000000.0 / 60  # FPS

@@ -5,7 +5,7 @@ import pygame
 import functions
 
 bulletList = []
-icon2 = pygame.image.load("bullet.png")
+icon2 = pygame.image.load("res/bullet.png")
 
 def get_bullets():
     allBullets = ""
