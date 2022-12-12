@@ -75,6 +75,3 @@ def networkloop():
                     e += 1
 
             i+=1
-
-
-        #networking.bullets = list(map(float, networking.bullets[i - 1].split(',')))
