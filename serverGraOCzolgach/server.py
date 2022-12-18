@@ -67,5 +67,5 @@ while True:
     print(conn)
     thread = threading.Thread(target=handle_client, args=(conn, addr))
     thread.start()
-    print(addr + " dołączył się")
+    print("dołączył się gracz")
     print("ile ludzi:  " + str(threading.active_count() - 1))
